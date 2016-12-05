@@ -1,0 +1,17 @@
+{
+    "name": "959song/cch",
+    "type": "project",
+    "require": {
+        "yiisoft/yii2": "2.0.6",
+        "yiisoft/yii2-bootstrap": "*"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "*"
+    },
+    "authors": [
+        {
+            "name": "zys5210",
+            "email": "53804059@qq.com"
+        }
+    ]
+}
